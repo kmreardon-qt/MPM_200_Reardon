@@ -2,7 +2,8 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+This code evaluates hummingbird data collected from California rehab facilities. We are evaluating is there are any factors that increase their survival. Some tables are charts are created to help evaluate some of the data. A random seed of data is generated and then a table is created. 
+
 
 ## Project Organization
 ------------
